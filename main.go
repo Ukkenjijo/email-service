@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"net"
-	"email-service/proto"
-	"email-service/service"
 
+	"github.com/Ukkenjijo/email-service/proto"
+	"github.com/Ukkenjijo/email-service/service"
 	"google.golang.org/grpc"
 )
 

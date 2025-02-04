@@ -3,7 +3,8 @@ package service
 import (
 	"context"
 	"log"
-	"email-service/proto"
+
+	"github.com/Ukkenjijo/email-service/proto"
 )
 
 type EmailService struct {
